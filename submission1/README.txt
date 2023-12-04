@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/MZB6MtJFMAY
 
 Public link to the slide (Anyone on the internet can view without login):
-https://www.canva.com/design/DAF15MDbVPs/y2eNyNHV_bJHZGNNZwf7pw/view?utm_content=DAF15MDbVPs&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://www.canva.com/design/DAF2AL8Heow/TJPVEQFT7DlheFz0EeezAQ/view?utm_content=DAF2AL8Heow&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Paper title:
 A Survey of Autonomous Driving: Common Practices and Emerging Technologies
